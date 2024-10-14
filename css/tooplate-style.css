@@ -456,7 +456,7 @@
   }
 
   .slider .item-third {
-    background-image: url(../images/slider3.jpg);
+    background-image: url(../images/Medical-tourism.jpg);
   }
 
 
@@ -792,22 +792,34 @@
   footer {
     padding-top: 80px;
     padding-bottom: 40px;
+    background-color: #000000;
+  }
+
+  .number{
+    color:white;
+  }
+
+  wow-fadeInUp{
+    color:white;
+
   }
 
   footer h4 {
     padding-bottom: 5px;
+    
   }
 
   footer a {
-    color: #757575;
+    color: white;
   }
 
   footer a:hover {
-    color: #4267b2;
+    color: green;
   }
 
   .contact-info {
     padding-top: 10px;
+    color:white;
   }
 
   .contact-info .fa {
@@ -841,14 +853,17 @@
 
   .stories-info {
     margin-left: 15px;
+    color:white;
   }
 
   .stories-info h5 {
     margin-bottom: 2px;
+    color: white;
+
   }
 
   .stories-info span {
-    color: #858585;
+    color: white;
     font-size: 12px;
   }
 
@@ -864,7 +879,7 @@
 
   .copyright-text p,
   .footer-link a {
-    color: #858585;
+    color: white;
     font-size: 12px;
     font-weight: 500;
   }
